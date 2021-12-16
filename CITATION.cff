@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Expected hypervolume improvement for
+  simultaneousmulti-objective and multi-fidelity
+  optimization
+message: >-
+  If you use this addition, please cite the
+  associated paper.
+type: software
+authors:
+  - given-names: Faran
+    family-names: Irshad
+    email: faran.irshad@lmu.de
+    affiliation: 'Faculty of Physics, LMU Munich'
+  - given-names: Andreas
+    family-names: Döpp
+    email: a.doepp@lmu.de
+    affiliation: 'Faculty of Physics, LMU Munich'
+  - given-names: 'Stefan '
+    family-names: Karsch
+    email: stefan.karsch@lmu.de
+    affiliation: 'Faculty of Physics, LMU Munich'
