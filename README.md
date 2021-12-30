@@ -1,4 +1,4 @@
-# Multi-objective, multi-fidelity (MOMF) Batesian Optimization (BO) Algorithm
+# Multi-objective, multi-fidelity (MOMF) Bayesian Optimization (BO) Algorithm
 
 A method for simultaneous multi-objective and multi-fidelity Bayesian optimization based on expected hypervolume improvement. For more details on the Algorithm please see the following paper outlining the basic functioning. 
 
